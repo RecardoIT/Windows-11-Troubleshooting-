@@ -1,21 +1,16 @@
 # Realistic Ticketing System
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This GitHub project simulates a workforce ticketing system, providing hands-on experience with automating ticket management and troubleshooting common IT issues. Designed to mimic real-world help desk operations, it offers an excellent platform for developing problem-solving skills and understanding ticket workflows in a professional environment.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
-
+- Ticketing System Implementation: Designed a simulated IT ticketing system to replicate real help desk operations, featuring categorized tickets and solutions for common IT issues.
+- Automation & Workflow Management: Developed automated workflows for ticket assignment, prioritization, and escalation to streamline issue resolution.
+- User Request Handling: Created scenarios for handling common user requests such as password resets, software installations, and hardware replacements.
+- Knowledge Base Integration: Designed a searchable knowledge base for common solutions, enabling faster ticket resolution and self-service support.
+- 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
