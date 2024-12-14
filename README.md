@@ -9,7 +9,7 @@ This GitHub project simulates a workforce ticketing system, providing hands-on e
 - Automation & Workflow Management: Developed automated workflows for ticket assignment, prioritization, and escalation to streamline issue resolution.
 - User Request Handling: Created scenarios for handling common user requests such as password resets, software installations, and hardware replacements.
 - Knowledge Base Integration: Designed a searchable knowledge base for common solutions, enabling faster ticket resolution and self-service support.
-- 
+
 ### Tools Used
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
