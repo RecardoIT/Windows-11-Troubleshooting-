@@ -1,4 +1,4 @@
-# Cloud Help Desk: Inventory & Remote Support
+# Cloud Help Desk Simulation : Inventory & Remote Support
 
 ## Objective
 This GitHub project simulates a workforce ticketing system, providing hands-on experience with automating ticket management and troubleshooting common IT issues. Designed to mimic real-world help desk operations, it offers an excellent platform for developing problem-solving skills and understanding ticket workflows in a professional environment.
